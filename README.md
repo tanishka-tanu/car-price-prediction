@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-[🔗 **[Click Here to Use the App](https://your-app-link.streamlit.app)**](https://car-price-prediction-model-ml.streamlit.app/)
+[🔗 **[Click Here to Use the App]**](https://car-price-prediction-model-ml.streamlit.app/)
 
 ---
 
