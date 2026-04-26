@@ -1,56 +1,62 @@
 # 🚗 Car Price Prediction App
 
-A Machine Learning web application that predicts the resale price of a car based on user inputs like year, price, fuel type, and more.
+<p align="center">
+  <b>💡 Predict car resale prices using Machine Learning</b><br>
+  Built with Python, Scikit-learn & Streamlit
+</p>
 
 ---
 
 ## 🌐 Live Demo
 
-👉 [https://your-app-link.streamlit.app](https://car-price-prediction-model-ml.streamlit.app/)
+[🔗 **[Click Here to Use the App](https://your-app-link.streamlit.app)**](https://car-price-prediction-model-ml.streamlit.app/)
+
+---
 
 ---
 
 ## 📌 Project Overview
 
-This project uses a **Random Forest Regressor** to estimate car prices.
-Users enter car details through a **Streamlit UI**, and the model predicts the resale value along with a confidence score.
+This is an **end-to-end Machine Learning project** that predicts the resale price of a car based on features like year, price, fuel type, seller type, transmission, and ownership.
+
+The model is trained using a **Random Forest Regressor** and deployed as an interactive web app using **Streamlit**, allowing users to get instant predictions with a confidence score.
 
 ---
 
 ## 🚀 Features
 
-* 🔮 Real-time car price prediction
-* 📊 Confidence score visualization
-* 🎨 Clean and interactive UI
-* ⚡ Fast and responsive web app
-* 📦 End-to-end ML pipeline
+✨ Real-time car price prediction
+📊 Confidence score based on model variance
+🎨 Clean & modern UI
+⚡ Fast and responsive performance
+📦 Complete ML pipeline (data → model → deployment)
 
 ---
 
 ## 🧠 Tech Stack
 
-* Python
-* Scikit-learn
-* Pandas & NumPy
-* Streamlit
-* Pickle
+| Category      | Tools Used                   |
+| ------------- | ---------------------------- |
+| Language      | Python                       |
+| ML Model      | Scikit-learn (Random Forest) |
+| Data Handling | Pandas, NumPy                |
+| Deployment    | Streamlit                    |
+| Serialization | Pickle                       |
 
 ---
 
 ## ⚙️ How It Works
 
-1. User enters car details
-2. Feature engineering is applied (Car Age, encoding, etc.)
-3. Model processes the input
-4. Price is predicted
-5. Confidence score is displayed
+```text
+User Input → Feature Engineering → Model Prediction → Output + Confidence Score
+```
 
 ---
 
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/tanishka-tanu/car-price-prediction.git
 cd car-price-prediction
 pip install -r requirements.txt
 streamlit run app.py
@@ -76,10 +82,10 @@ car-price-prediction/
 
 ## 📈 Future Improvements
 
-* Add more features (brand, location, condition)
-* Improve model accuracy
-* Add visual analytics dashboard
-* Enable batch predictions (CSV upload)
+* 🔍 Add more features (brand, location, condition)
+* 📊 Add analytics dashboard
+* 📁 Batch prediction via CSV upload
+* 🧠 Improve model accuracy
 
 ---
 
@@ -89,7 +95,6 @@ car-price-prediction/
 
 ---
 
-## ⭐ Show Your Support
+## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
-.
+If you found this useful, consider giving it a ⭐ on GitHub!
