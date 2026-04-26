@@ -6,7 +6,7 @@ A Machine Learning web application that predicts the resale price of a car based
 
 ## 🌐 Live Demo
 
-👉 https://your-app-link.streamlit.app
+👉 [https://your-app-link.streamlit.app](https://car-price-prediction-model-ml.streamlit.app/)
 
 ---
 
